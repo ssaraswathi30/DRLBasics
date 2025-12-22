@@ -1,0 +1,3 @@
+conda create -n drlbasics python=3.10
+conda activate drlbasics
+pip install -r requirements.txt
