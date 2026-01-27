@@ -1,0 +1,40 @@
+# Jupyter & IPython
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.20.0
+ipython>=8.10.0
+jupyterlab>=3.6.0
+
+# Scientific Computing & Data Analysis
+numpy< 2.0
+pandas>=1.5.0
+scipy>=1.10.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+
+# Deep Learning & Neural Networks
+tensorflow>=2.13.0
+keras>=2.13.0
+protobuf>=3.20.0
+
+# Reinforcement Learning Environments
+gymnasium>=0.28.0
+gymnasium-robotics>=0.2.0
+mujoco>=3.0.0
+dm-control>=1.0.0
+
+# MuJoCo Rendering & Visualization
+imageio>=2.26.0
+imageio-ffmpeg>=0.4.9
+glfw>=2.5.0
+
+# Additional Visualization & Utilities
+plotly>=5.13.0
+tqdm>=4.65.0
+pillow>=9.5.0
+
+# Development & Testing
+pytest>=7.3.0
+black>=23.3.0
+flake8>=6.0.0
